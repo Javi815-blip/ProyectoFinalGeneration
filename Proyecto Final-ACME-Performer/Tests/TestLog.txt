@@ -1,0 +1,182 @@
+﻿
+=================================================
+Starting new set of 8 tests at 09:15:24  AM, 18/05/2021
+=================================================
+09:15:26 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:15:34 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+09:15:36 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+09:16:07 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:16:07 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:16:08 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:16:15 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+09:16:17 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+================================
+09:16:17	Summary: 8/8 Tests Passed. Total execution time: 53 seconds
+
+=================================================
+Starting new set of 9 tests at 09:21:54  AM, 18/05/2021
+=================================================
+09:21:56 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:22:04 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+09:22:06 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+09:22:36 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:22:37 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:22:38 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:22:45 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+09:22:47 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+09:22:47 AM	Test 9 FAIL  ---> \Process.xaml ---> Success
+================================
+09:22:48	Summary: 8/9 Tests Passed. Total execution time: 54 seconds
+
+=================================================
+Starting new set of 9 tests at 09:24:26  AM, 18/05/2021
+=================================================
+09:24:28 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:24:36 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+09:24:38 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+09:25:09 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:25:09 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:25:10 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:25:17 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+09:25:19 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+09:25:19 AM	Test 9 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Process.xaml ---> Success
+================================
+09:25:20	Summary: 8/9 Tests Passed. Total execution time: 54 seconds
+
+=================================================
+Starting new set of 9 tests at 11:12:40  AM, 18/05/2021
+=================================================
+11:12:42 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+11:12:51 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+11:12:53 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+11:13:23 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+11:13:24 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+11:13:25 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+11:13:34 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+11:13:36 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+11:13:37 AM	Test 9 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Process.xaml ---> BusinessException
+================================
+11:13:38	Summary: 8/9 Tests Passed. Total execution time: 58 seconds
+
+=================================================
+Starting new set of 9 tests at 11:14:51  AM, 18/05/2021
+=================================================
+11:14:53 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+11:15:02 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+11:15:04 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+11:15:35 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+11:15:36 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+11:15:37 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+11:15:45 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+11:15:47 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+11:15:48 AM	Test 9 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Process.xaml
+================================
+11:15:49	Summary: 9/9 Tests Passed. Total execution time: 58 seconds
+
+=================================================
+Starting new set of 25 tests at 11:18:56  AM, 18/05/2021
+=================================================
+11:18:58 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+11:19:06 AM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+11:19:08 AM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+11:19:39 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+11:19:40 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+11:19:41 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+11:19:50 AM	Test 7 PASS  ---> Framework\InitAllApplications.xaml
+11:19:52 AM	Test 8 PASS  ---> Framework\CloseAllApplications.xaml
+11:19:53 AM	Test 9 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Process.xaml
+11:19:54 AM	Test 10 FAIL  ---> Framework\InitAllSettings.xaml ---> BusinessException
+11:20:02 AM	Test 11 FAIL  ---> Framework\InitAllApplications.xaml ---> BusinessException
+11:20:04 AM	Test 12 FAIL  ---> Framework\CloseAllApplications.xaml ---> BusinessException
+11:20:35 AM	Test 13 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+11:20:36 AM	Test 14 FAIL  ---> Framework\InitAllSettings.xaml ---> BusinessException
+11:20:37 AM	Test 15 FAIL  ---> Framework\InitAllSettings.xaml ---> BusinessException
+11:20:46 AM	Test 16 FAIL  ---> Framework\InitAllApplications.xaml ---> BusinessException
+11:20:48 AM	Test 17 FAIL  ---> Framework\CloseAllApplications.xaml ---> BusinessException
+11:20:49 AM	Test 18 FAIL  ---> Framework\InitAllSettings.xaml ---> SystemException
+11:20:57 AM	Test 19 FAIL  ---> Framework\InitAllApplications.xaml ---> SystemException
+11:20:59 AM	Test 20 FAIL  ---> Framework\CloseAllApplications.xaml ---> SystemException
+11:21:30 AM	Test 21 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+11:21:31 AM	Test 22 FAIL  ---> Framework\InitAllSettings.xaml ---> SystemException
+11:21:32 AM	Test 23 FAIL  ---> Framework\InitAllSettings.xaml ---> SystemException
+11:21:40 AM	Test 24 FAIL  ---> Framework\InitAllApplications.xaml ---> SystemException
+11:21:42 AM	Test 25 FAIL  ---> Framework\CloseAllApplications.xaml ---> SystemException
+================================
+11:21:43	Summary: 9/25 Tests Passed. Total execution time: 167 seconds
+
+=================================================
+Starting new set of 11 tests at 09:38:31  AM, 20/05/2021
+=================================================
+09:38:34 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:38:42 AM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:39:13 AM	Test 3 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:39:44 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:39:45 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:39:47 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:39:55 AM	Test 7 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:40:25 AM	Test 8 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:40:28 AM	Test 9 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> Success
+09:40:29 AM	Test 10 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> BusinessException
+09:40:30 AM	Test 11 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml
+================================
+09:40:30	Summary: 5/11 Tests Passed. Total execution time: 119 seconds
+
+=================================================
+Starting new set of 11 tests at 09:41:23  AM, 20/05/2021
+=================================================
+09:41:26 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:41:33 AM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:42:05 AM	Test 3 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:42:35 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:42:37 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:42:39 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:42:47 AM	Test 7 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:43:17 AM	Test 8 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:43:19 AM	Test 9 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> Success
+09:43:20 AM	Test 10 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> BusinessException
+09:43:21 AM	Test 11 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml
+================================
+09:43:21	Summary: 5/11 Tests Passed. Total execution time: 118 seconds
+
+=================================================
+Starting new set of 11 tests at 09:49:48  AM, 20/05/2021
+=================================================
+09:49:50 AM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:49:58 AM	Test 2 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:50:29 AM	Test 3 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:51:00 AM	Test 4 PASS  ---> Framework\CloseAllApplications.xaml
+09:51:02 AM	Test 5 PASS  ---> Framework\InitAllSettings.xaml
+09:51:03 AM	Test 6 PASS  ---> Framework\InitAllSettings.xaml
+09:51:11 AM	Test 7 FAIL  ---> Framework\InitAllApplications.xaml ---> Success
+09:51:42 AM	Test 8 FAIL  ---> Framework\CloseAllApplications.xaml ---> Success
+09:51:44 AM	Test 9 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml
+09:51:46 AM	Test 10 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> BusinessException
+09:51:47 AM	Test 11 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> SystemException
+================================
+09:51:48	Summary: 5/11 Tests Passed. Total execution time: 120 seconds
+
+=================================================
+Starting new set of 3 tests at 09:56:56  AM, 20/05/2021
+=================================================
+09:56:59 AM	Test 1 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml
+09:57:01 AM	Test 2 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> BusinessException
+09:57:03 AM	Test 3 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml ---> SystemException
+================================
+09:57:03	Summary: 1/3 Tests Passed. Total execution time: 7 seconds
+
+=================================================
+Starting new set of 4 tests at 10:13:27  AM, 20/05/2021
+=================================================
+10:13:27 AM	Test 1 FAIL  --->  ---> 
+10:13:28 AM	Test 2 FAIL  --->  ---> 
+10:13:28 AM	Test 3 FAIL  --->  ---> 
+10:13:31 AM	Test 4 FAIL  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Dispatcher.xaml ---> Success
+================================
+10:13:32	Summary: 0/4 Tests Passed. Total execution time: 5 seconds
+
+=================================================
+Starting new set of 1 tests at 10:15:50  AM, 20/05/2021
+=================================================
+10:15:53 AM	Test 1 PASS  ---> D:\GENERATION\UiPath\Proyecto Final-ACME\Mail_SubProcess.xaml
+================================
+10:15:53	Summary: 1/1 Tests Passed. Total execution time: 3 seconds
